@@ -1,0 +1,10 @@
+{	"contactEmailRot13" = "dan@daniellacy.com";
+	contactName = "Daniel Lacy";
+	description = "Conversion of PlasticCodeWrap theme.";
+	name = "Plastic Code Wrap Custom";
+	source = {
+		method = "git";
+		url = "";
+	};
+	uuid = "AF2A601B-1924-4740-8113-401FF0FA95E9";
+}
