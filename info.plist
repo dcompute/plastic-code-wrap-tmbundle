@@ -1,10 +1,11 @@
-{	"contactEmailRot13" = "dan@daniellacy.com";
-	contactName = "Daniel Lacy";
-	description = "Conversion of PlasticCodeWrap theme.";
-	name = "Plastic Code Wrap Custom";
-	source = {
-		method = "git";
-		url = "";
-	};
-	uuid = "AF2A601B-1924-4740-8113-401FF0FA95E9";
+{
+  "contactEmailRot13" = "dan@daniellacy.com";
+  contactName = "Daniel Lacy";
+  description = "Plastic Code Wrap theme for TextMate 2.";
+  name = "Plastic Code Wrap";
+  source = {
+    method = "git";
+    url = "git://github.com/dcompute/plastic-code-wrap-tmbundle.git";
+  };
+  uuid = "AF2A601B-1924-4740-8113-401FF0FA95E9";
 }
